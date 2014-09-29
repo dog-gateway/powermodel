@@ -22,5 +22,5 @@ Import-Package: it.polito.elite.dog.core.housemodel.api;version="1.1.0",
  org.semanticweb.owlapi.util;version="3.4.2",
  org.semanticweb.owlapi.vocab;version="3.5.0",
  uk.ac.manchester.cs.owl.owlapi;version="3.5.0"
-Export-Package: it.polito.elite.dog.addons.powermodel
+Export-Package: it.polito.elite.dog.addons.powermodel.api;version="1.0.0"
 Service-Component: OSGI-INF/component.xml
